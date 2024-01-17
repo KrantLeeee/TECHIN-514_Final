@@ -14,4 +14,4 @@ This is a compact, pin-like sign language recognizer that clips onto clothing. I
 
 ## How They Comminicate
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2054.png)
-![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2054.png)
+![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2055.png)
