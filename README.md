@@ -13,5 +13,5 @@ This project is a personal desktop weather station, displaying real-time outdoor
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/553ca108202862de61ef6196337a7ab.jpg)
 
 ## How They Comminicate
-![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2054.png)
-![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2055.png)
+![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/11.png)
+![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/22.png)
