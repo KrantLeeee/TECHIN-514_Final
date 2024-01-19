@@ -10,7 +10,7 @@ This project is a personal desktop weather station, displaying real-time outdoor
 ## Component Datasheet (Sensors & Displayes)
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/image%2055.png)
 ### How they work
-![GitHub Logo]()
+![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/553ca108202862de61ef6196337a7ab.jpg)
 
 ## How They Comminicate
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/Group%2054.png)
