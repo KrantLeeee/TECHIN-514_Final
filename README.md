@@ -16,18 +16,18 @@ This project is a personal desktop weather station, displaying real-time outdoor
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/ARCHITECTURE%201.png)
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/ARCHITECTURE%202.png)
 
-##Schematic
+## Schematic
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/WIRING.png)
 
-##PCB Design
+## PCB Design
 ![GitHub Logo](https://github.com/KrantLeeee/TECHIN-514_Final/blob/main/IMG/PCB.png)
 
-##DSP
+## DSP
 A moving average filter is used to ensure accurate and stable readings.
 The filter smooths out transient noise and mitigates anomalous data.
 This improves the reliability of the information provided by the weather station.
 
-##Function Logic
+## Function Logic
 Placement and Power
 The sensor device is positioned on an outdoor balcony.
 It's powered via USB, eliminating the need for frequent battery replacements.
